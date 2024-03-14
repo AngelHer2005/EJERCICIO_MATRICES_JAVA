@@ -6,6 +6,8 @@
 public class Ejercicio_01 {
 
     public static void main(String[] args) {
+        // Este código mostrará el nombre, la edad y el género de un grupo de 
+        // personas mediante matrices bidimensionales.
         String[][] personas = {
             {"Nombre", "Edad", "Género"},
             {"Juan", "25", "M"},
